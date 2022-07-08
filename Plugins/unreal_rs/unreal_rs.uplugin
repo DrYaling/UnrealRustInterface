@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "unreal_rs",
+	"Description": "unreal rust binding",
+	"Category": "Other",
+	"CreatedBy": "zxb",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "unreal_rs",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
